@@ -1,0 +1,299 @@
+Tlesson
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/Info.plist lesson/lesson-Info.plist
+cProcessPCH /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/lesson-Prefix-gfjkecdwwwoxdqakyfsfeidiamnl/lesson-Prefix.pch.pth lesson/lesson-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/main.o /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25View.o /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25Controller.o /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25Controller.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/MacOS/lesson normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000051B4C0A100000000000025C8
+t1370800289
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000051B4C0A100000000000001E5
+t1370800289
+s485
+
+N/Users/eight/Documents/lesson/build/Debug/lesson.app
+t2
+s0
+
+N/Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/Info.plist
+t2
+s0
+
+N/Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/MacOS/lesson
+t2
+s0
+
+N/Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25Controller.o
+t2
+s0
+
+N/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25View.o
+t2
+s0
+
+N/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/lesson.LinkFileList
+c00000000526240210000000000000139
+t1382170657
+s313
+
+N/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/English.lproj/InfoPlist.strings
+c000000003D30F14F0000000000000250
+t1026617679
+s592
+
+N/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/English.lproj/MainMenu.xib
+c0000000052623E4A000000000000F296
+t1382170186
+s62102
+
+N/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25Controller.m
+c000000003D3115C9000000000000116C
+t1026627017
+s4460
+
+N/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m
+c000000003D311A400000000000003001
+t1026628160
+s12289
+
+N/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/main.m
+c000000003D30F158000000000000007C
+t1026617688
+s124
+
+N/Users/eight/Documents/lesson/lesson/lesson-Prefix.pch
+c0000000052623F3B000000000000008F
+t1382170427
+s143
+i<Cocoa/Cocoa.h>
+
+N/var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/lesson-Prefix-gfjkecdwwwoxdqakyfsfeidiamnl/lesson-Prefix.pch.pth
+t2
+s0
+
+Nlesson/lesson-Info.plist
+c0000000052623F3B000000000000044E
+t1382170427
+s1102
+
+CBuild AST from /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25Controller.m
+r0
+
+CBuild AST from /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m
+r0
+
+CBuild AST from /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5caaaaa17712b841^6cd0b3a17712b841^---0#1#0#--18"Check dependencies36"F461A8D7-21F7-4AC3-873C-36361A2AC413-
+
+CCompileC build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25Controller.o /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25Controller.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403863459.252295
+e403863459.351668
+r1
+xCompileC
+xbuild/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25Controller.o
+x/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25Controller.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25Controller.m:202:1: warning: method possibly missing a [super dealloc] call [-Wobjc-missing-super-calls]
+o}
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25Controller.me1b440a37712b841^931a5aa37712b841^-212"/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25Controller.m:202:1: warning: method possibly missing a [super dealloc] call [-Wobjc-missing-super-calls]}^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@46"Method possibly missing a [super dealloc] call-403863459#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file://localhost/Users/eight/Downloads/Lesson25_OSXCocoa/Lesson25Controller.m0000000000000000^201#0#201#0#4452#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@110"file://localhost/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25Controller.m0000000000000000^2937"CompileC build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25Controller.o lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25Controller.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eight/Documents/lesson    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-generated-files.hmap -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-own-target-headers.hmap -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-all-target-headers.hmap -iquote /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-project-headers.hmap -I/Users/eight/Documents/lesson/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/DerivedSources/x86_64 -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/DerivedSources -F/Users/eight/Documents/lesson/build/Debug -include /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/lesson-Prefix-gfjkecdwwwoxdqakyfsfeidiamnl/lesson-Prefix.pch -MMD -MT dependencies -MF /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25Controller.d --serialize-diagnostics /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25Controller.dia -c /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25Controller.m -o /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25Controller.o36"E4B9FE3A-4370-4CDA-9EBB-891AE569DBBC-
+
+CCompileC build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25View.o /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403863459.251584
+e403863459.415110
+r1
+xCompileC
+xbuild/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25View.o
+x/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:35:43: warning: 'CGDisplayCurrentMode' is deprecated: first deprecated in OS X 10.6 [-Wdeprecated-declarations]
+o   originalDisplayMode = (NSDictionary *) CGDisplayCurrentMode(
+o                                          ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplay.h:469:27: note: 'CGDisplayCurrentMode' declared here
+oCG_EXTERN CFDictionaryRef CGDisplayCurrentMode(CGDirectDisplayID display)
+o                          ^
+o/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:87:41: warning: 'CGDisplayBestModeForParameters' is deprecated: first deprecated in OS X 10.6 [-Wdeprecated-declarations]
+o      fullScreenMode = (NSDictionary *) CGDisplayBestModeForParameters(
+o                                        ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplay.h:448:27: note: 'CGDisplayBestModeForParameters' declared here
+oCG_EXTERN CFDictionaryRef CGDisplayBestModeForParameters(CGDirectDisplayID
+o                          ^
+o/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:93:7: warning: 'CGDisplaySwitchToMode' is deprecated: first deprecated in OS X 10.6 [-Wdeprecated-declarations]
+o      CGDisplaySwitchToMode( kCGDirectMainDisplay,
+o      ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplay.h:474:19: note: 'CGDisplaySwitchToMode' declared here
+oCG_EXTERN CGError CGDisplaySwitchToMode(CGDirectDisplayID display,
+o                  ^
+o/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:147:4: warning: 'CGDisplaySwitchToMode' is deprecated: first deprecated in OS X 10.6 [-Wdeprecated-declarations]
+o   CGDisplaySwitchToMode( kCGDirectMainDisplay,
+o   ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplay.h:474:19: note: 'CGDisplaySwitchToMode' declared here
+oCG_EXTERN CGError CGDisplaySwitchToMode(CGDirectDisplayID display,
+o                  ^
+o/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:175:21: warning: 'cString' is deprecated [-Wdeprecated-declarations]
+o   [ self objLoad:[ [ resourcePath stringByAppendingFormat:@"/%s",
+o                    ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:344:1: note: method 'cString' declared here
+o- (const char *)cString NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);
+o^
+o/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:177:21: warning: 'cString' is deprecated [-Wdeprecated-declarations]
+o   [ self objLoad:[ [ resourcePath stringByAppendingFormat:@"/%s",
+o                    ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:344:1: note: method 'cString' declared here
+o- (const char *)cString NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);
+o^
+o/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:179:21: warning: 'cString' is deprecated [-Wdeprecated-declarations]
+o   [ self objLoad:[ [ resourcePath stringByAppendingFormat:@"/%s",
+o                    ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:344:1: note: method 'cString' declared here
+o- (const char *)cString NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);
+o^
+o/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:191:21: warning: 'cString' is deprecated [-Wdeprecated-declarations]
+o   [ self objLoad:[ [ resourcePath stringByAppendingFormat:@"/%s",
+o                    ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:344:1: note: method 'cString' declared here
+o- (const char *)cString NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);
+o^
+o/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:500:1: warning: method possibly missing a [super dealloc] call [-Wobjc-missing-super-calls]
+o}
+o^
+o9 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.md28940a37712b841^bb436aa37712b841^-4723"/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:35:43: warning: 'CGDisplayCurrentMode' is deprecated: first deprecated in OS X 10.6 [-Wdeprecated-declarations]   originalDisplayMode = (NSDictionary *) CGDisplayCurrentMode(                                          ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplay.h:469:27: note: 'CGDisplayCurrentMode' declared hereCG_EXTERN CFDictionaryRef CGDisplayCurrentMode(CGDirectDisplayID display)                          ^/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:87:41: warning: 'CGDisplayBestModeForParameters' is deprecated: first deprecated in OS X 10.6 [-Wdeprecated-declarations]      fullScreenMode = (NSDictionary *) CGDisplayBestModeForParameters(                                        ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplay.h:448:27: note: 'CGDisplayBestModeForParameters' declared hereCG_EXTERN CFDictionaryRef CGDisplayBestModeForParameters(CGDirectDisplayID                          ^/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:93:7: warning: 'CGDisplaySwitchToMode' is deprecated: first deprecated in OS X 10.6 [-Wdeprecated-declarations]      CGDisplaySwitchToMode( kCGDirectMainDisplay,      ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplay.h:474:19: note: 'CGDisplaySwitchToMode' declared hereCG_EXTERN CGError CGDisplaySwitchToMode(CGDirectDisplayID display,                  ^/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:147:4: warning: 'CGDisplaySwitchToMode' is deprecated: first deprecated in OS X 10.6 [-Wdeprecated-declarations]   CGDisplaySwitchToMode( kCGDirectMainDisplay,   ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplay.h:474:19: note: 'CGDisplaySwitchToMode' declared hereCG_EXTERN CGError CGDisplaySwitchToMode(CGDirectDisplayID display,                  ^/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:175:21: warning: 'cString' is deprecated [-Wdeprecated-declarations]   [ self objLoad:[ [ resourcePath stringByAppendingFormat:@"/%s",                    ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:344:1: note: method 'cString' declared here- (const char *)cString NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);^/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:177:21: warning: 'cString' is deprecated [-Wdeprecated-declarations]   [ self objLoad:[ [ resourcePath stringByAppendingFormat:@"/%s",                    ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:344:1: note: method 'cString' declared here- (const char *)cString NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);^/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:179:21: warning: 'cString' is deprecated [-Wdeprecated-declarations]   [ self objLoad:[ [ resourcePath stringByAppendingFormat:@"/%s",                    ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:344:1: note: method 'cString' declared here- (const char *)cString NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);^/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:191:21: warning: 'cString' is deprecated [-Wdeprecated-declarations]   [ self objLoad:[ [ resourcePath stringByAppendingFormat:@"/%s",                    ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:344:1: note: method 'cString' declared here- (const char *)cString NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);^/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m:500:1: warning: method possibly missing a [super dealloc] call [-Wobjc-missing-super-calls]}^9 warnings generated.9(36%IDEClangDiagnosticActivityLogMessage2@67"'CGDisplayCurrentMode' is deprecated: first deprecated in OS X 10.6-403863459#18446744073709551615#0#1(2@36"'CGDisplayCurrentMode' declared here-403863459#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@189"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplay.h0000000000000000^468#26#468#26#19334#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/eight/Downloads/Lesson25_OSXCocoa/Lesson25View.m0000000000000000^34#42#34#42#1025#0#12"Deprecations--2@77"'CGDisplayBestModeForParameters' is deprecated: first deprecated in OS X 10.6-403863459#18446744073709551615#0#1(2@46"'CGDisplayBestModeForParameters' declared here-403863459#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@189"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplay.h0000000000000000^447#26#447#26#18342#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/eight/Downloads/Lesson25_OSXCocoa/Lesson25View.m0000000000000000^86#40#86#40#2486#0#12"Deprecations--2@68"'CGDisplaySwitchToMode' is deprecated: first deprecated in OS X 10.6-403863459#18446744073709551615#0#1(2@37"'CGDisplaySwitchToMode' declared here-403863459#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@189"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplay.h0000000000000000^473#18#473#18#19528#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/eight/Downloads/Lesson25_OSXCocoa/Lesson25View.m0000000000000000^92#6#92#6#2830#0#12"Deprecations--2@68"'CGDisplaySwitchToMode' is deprecated: first deprecated in OS X 10.6-403863459#18446744073709551615#0#1(2@37"'CGDisplaySwitchToMode' declared here-403863459#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@189"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplay.h0000000000000000^473#18#473#18#19528#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/eight/Downloads/Lesson25_OSXCocoa/Lesson25View.m0000000000000000^146#3#146#3#4239#0#12"Deprecations--2@23"'cString' is deprecated-403863459#18446744073709551615#0#1(2@30"Method 'cString' declared here-403863459#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@180"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^343#0#343#0#23484#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/eight/Downloads/Lesson25_OSXCocoa/Lesson25View.m0000000000000000^174#20#174#20#5267#0#12"Deprecations--2@23"'cString' is deprecated-403863459#18446744073709551615#0#1(2@30"Method 'cString' declared here-403863459#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@180"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^343#0#343#0#23484#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/eight/Downloads/Lesson25_OSXCocoa/Lesson25View.m0000000000000000^176#20#176#20#5411#0#12"Deprecations--2@23"'cString' is deprecated-403863459#18446744073709551615#0#1(2@30"Method 'cString' declared here-403863459#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@180"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^343#0#343#0#23484#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/eight/Downloads/Lesson25_OSXCocoa/Lesson25View.m0000000000000000^178#20#178#20#5554#0#12"Deprecations--2@23"'cString' is deprecated-403863459#18446744073709551615#0#1(2@30"Method 'cString' declared here-403863459#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@180"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^343#0#343#0#23484#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/eight/Downloads/Lesson25_OSXCocoa/Lesson25View.m0000000000000000^190#20#190#20#6138#0#12"Deprecations--2@46"Method possibly missing a [super dealloc] call-403863459#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/eight/Downloads/Lesson25_OSXCocoa/Lesson25View.m0000000000000000^499#0#499#0#12281#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@104"file://localhost/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m0000000000000000^2901"CompileC build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25View.o lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eight/Documents/lesson    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-generated-files.hmap -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-own-target-headers.hmap -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-all-target-headers.hmap -iquote /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-project-headers.hmap -I/Users/eight/Documents/lesson/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/DerivedSources/x86_64 -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/DerivedSources -F/Users/eight/Documents/lesson/build/Debug -include /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/lesson-Prefix-gfjkecdwwwoxdqakyfsfeidiamnl/lesson-Prefix.pch -MMD -MT dependencies -MF /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25View.d --serialize-diagnostics /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25View.dia -c /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/Lesson25View.m -o /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/Lesson25View.o36"C49A6391-4A5C-4426-B157-667086061A38-
+
+CCompileC build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/main.o /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403863459.250649
+e403863459.302360
+r1
+xCompileC
+xbuild/lesson.build/Debug/lesson.build/Objects-normal/x86_64/main.o
+x/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/main.mb55240a37712b841^ba674da37712b841^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/main.m0000000000000000^2853"CompileC build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/main.o lesson/../../../Downloads/Lesson25_OSXCocoa/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eight/Documents/lesson    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-generated-files.hmap -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-own-target-headers.hmap -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-all-target-headers.hmap -iquote /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-project-headers.hmap -I/Users/eight/Documents/lesson/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/DerivedSources/x86_64 -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/DerivedSources -F/Users/eight/Documents/lesson/build/Debug -include /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/lesson-Prefix-gfjkecdwwwoxdqakyfsfeidiamnl/lesson-Prefix.pch -MMD -MT dependencies -MF /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/main.dia -c /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/main.m -o /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/main.o36"7E89520F-857F-4B66-9564-9D08735F6BA0-
+
+CCompileXIB /Users/eight/Documents/lesson/lesson/../../../Downloads/Lesson25_OSXCocoa/English.lproj/MainMenu.xib
+r0
+
+CCopyStringsFile /Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/Resources/English.lproj/InfoPlist.strings lesson/../../../Downloads/Lesson25_OSXCocoa/English.lproj/InfoPlist.strings
+r0
+
+CLd /Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/MacOS/lesson normal x86_64
+s403863459.422446
+e403863459.500993
+r0
+xLd
+x/Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/MacOS/lesson
+xnormal
+xx86_64
+oUndefined symbols for architecture x86_64:
+o  "_glBegin", referenced from:
+o      -[Lesson25View drawRect:] in Lesson25View.o
+o  "_glBlendFunc", referenced from:
+o      -[Lesson25View initGL] in Lesson25View.o
+o  "_glClear", referenced from:
+o      -[Lesson25View drawRect:] in Lesson25View.o
+o  "_glClearColor", referenced from:
+o      -[Lesson25View initGL] in Lesson25View.o
+o  "_glClearDepth", referenced from:
+o      -[Lesson25View initGL] in Lesson25View.o
+o  "_glColor3f", referenced from:
+o      -[Lesson25View drawRect:] in Lesson25View.o
+o  "_glDepthFunc", referenced from:
+o      -[Lesson25View initGL] in Lesson25View.o
+o  "_glEnable", referenced from:
+o      -[Lesson25View initGL] in Lesson25View.o
+o  "_glEnd", referenced from:
+o      -[Lesson25View drawRect:] in Lesson25View.o
+o  "_glHint", referenced from:
+o      -[Lesson25View initGL] in Lesson25View.o
+o  "_glLoadIdentity", referenced from:
+o      -[Lesson25View reshape] in Lesson25View.o
+o      -[Lesson25View drawRect:] in Lesson25View.o
+o  "_glMatrixMode", referenced from:
+o      -[Lesson25View reshape] in Lesson25View.o
+o  "_glRotatef", referenced from:
+o      -[Lesson25View drawRect:] in Lesson25View.o
+o  "_glShadeModel", referenced from:
+o      -[Lesson25View initGL] in Lesson25View.o
+o  "_glTranslatef", referenced from:
+o      -[Lesson25View drawRect:] in Lesson25View.o
+o  "_glVertex3f", referenced from:
+o      -[Lesson25View drawRect:] in Lesson25View.o
+o  "_glViewport", referenced from:
+o      -[Lesson25View reshape] in Lesson25View.o
+o  "_gluPerspective", referenced from:
+o      -[Lesson25View reshape] in Lesson25View.o
+old: symbol(s) not found for architecture x86_64
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Link /Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/MacOS/lessonc43f6ca37712b841^4cc380a37712b841^-1705"Undefined symbols for architecture x86_64:  "_glBegin", referenced from:      -[Lesson25View drawRect:] in Lesson25View.o  "_glBlendFunc", referenced from:      -[Lesson25View initGL] in Lesson25View.o  "_glClear", referenced from:      -[Lesson25View drawRect:] in Lesson25View.o  "_glClearColor", referenced from:      -[Lesson25View initGL] in Lesson25View.o  "_glClearDepth", referenced from:      -[Lesson25View initGL] in Lesson25View.o  "_glColor3f", referenced from:      -[Lesson25View drawRect:] in Lesson25View.o  "_glDepthFunc", referenced from:      -[Lesson25View initGL] in Lesson25View.o  "_glEnable", referenced from:      -[Lesson25View initGL] in Lesson25View.o  "_glEnd", referenced from:      -[Lesson25View drawRect:] in Lesson25View.o  "_glHint", referenced from:      -[Lesson25View initGL] in Lesson25View.o  "_glLoadIdentity", referenced from:      -[Lesson25View reshape] in Lesson25View.o      -[Lesson25View drawRect:] in Lesson25View.o  "_glMatrixMode", referenced from:      -[Lesson25View reshape] in Lesson25View.o  "_glRotatef", referenced from:      -[Lesson25View drawRect:] in Lesson25View.o  "_glShadeModel", referenced from:      -[Lesson25View initGL] in Lesson25View.o  "_glTranslatef", referenced from:      -[Lesson25View drawRect:] in Lesson25View.o  "_glVertex3f", referenced from:      -[Lesson25View drawRect:] in Lesson25View.o  "_glViewport", referenced from:      -[Lesson25View reshape] in Lesson25View.o  "_gluPerspective", referenced from:      -[Lesson25View reshape] in Lesson25View.old: symbol(s) not found for architecture x86_64clang: error: linker command failed with exit code 1 (use -v to see invocation)39(21%IDEActivityLogMessage2@28""_glBegin", referenced from:-403863459#43#31#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@43"-[Lesson25View drawRect:] in Lesson25View.o-403863459#74#50#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@32""_glBlendFunc", referenced from:-403863459#124#35#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@40"-[Lesson25View initGL] in Lesson25View.o-403863459#159#47#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@28""_glClear", referenced from:-403863459#206#31#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@43"-[Lesson25View drawRect:] in Lesson25View.o-403863459#237#50#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@33""_glClearColor", referenced from:-403863459#287#36#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@40"-[Lesson25View initGL] in Lesson25View.o-403863459#323#47#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@33""_glClearDepth", referenced from:-403863459#370#36#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@40"-[Lesson25View initGL] in Lesson25View.o-403863459#406#47#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@30""_glColor3f", referenced from:-403863459#453#33#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@43"-[Lesson25View drawRect:] in Lesson25View.o-403863459#486#50#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@32""_glDepthFunc", referenced from:-403863459#536#35#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@40"-[Lesson25View initGL] in Lesson25View.o-403863459#571#47#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@29""_glEnable", referenced from:-403863459#618#32#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@40"-[Lesson25View initGL] in Lesson25View.o-403863459#650#47#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@26""_glEnd", referenced from:-403863459#697#29#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@43"-[Lesson25View drawRect:] in Lesson25View.o-403863459#726#50#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@27""_glHint", referenced from:-403863459#776#30#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@40"-[Lesson25View initGL] in Lesson25View.o-403863459#806#47#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@35""_glLoadIdentity", referenced from:-403863459#853#38#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@41"-[Lesson25View reshape] in Lesson25View.o-403863459#891#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@43"-[Lesson25View drawRect:] in Lesson25View.o-403863459#939#50#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@33""_glMatrixMode", referenced from:-403863459#989#36#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@41"-[Lesson25View reshape] in Lesson25View.o-403863459#1025#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@30""_glRotatef", referenced from:-403863459#1073#33#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@43"-[Lesson25View drawRect:] in Lesson25View.o-403863459#1106#50#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@33""_glShadeModel", referenced from:-403863459#1156#36#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@40"-[Lesson25View initGL] in Lesson25View.o-403863459#1192#47#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@33""_glTranslatef", referenced from:-403863459#1239#36#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@43"-[Lesson25View drawRect:] in Lesson25View.o-403863459#1275#50#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@31""_glVertex3f", referenced from:-403863459#1325#34#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@43"-[Lesson25View drawRect:] in Lesson25View.o-403863459#1359#50#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@31""_glViewport", referenced from:-403863459#1409#34#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@41"-[Lesson25View reshape] in Lesson25View.o-403863459#1443#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@35""_gluPerspective", referenced from:-403863459#1491#38#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@41"-[Lesson25View reshape] in Lesson25View.o-403863459#1529#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@43"Symbol(s) not found for architecture x86_64-403863459#1577#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-403863459#1625#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--0#0#0#--708"Ld build/Debug/lesson.app/Contents/MacOS/lesson normal x86_64    cd /Users/eight/Documents/lesson    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/eight/Documents/lesson/build/Debug -F/Users/eight/Documents/lesson/build/Debug -filelist /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/Objects-normal/x86_64/lesson.LinkFileList -mmacosx-version-min=10.8 -fobjc-link-runtime -framework Cocoa -o /Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/MacOS/lesson36"081C64BF-8CCC-4742-B254-69A3955DE7A6-
+
+CProcessInfoPlistFile /Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/Info.plist lesson/lesson-Info.plist
+s403863457.707141
+e403863457.710690
+r1
+xProcessInfoPlistFile
+x/Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/Info.plist
+xlesson/lesson-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Process lesson/lesson-Info.plist3b1cb5a17712b841^795ab6a17712b841^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/eight/Documents/lesson/lesson/lesson-Info.plist0000000000000000^376"ProcessInfoPlistFile build/Debug/lesson.app/Contents/Info.plist lesson/lesson-Info.plist    cd /Users/eight/Documents/lesson    builtin-infoPlistUtility lesson/lesson-Info.plist -genpkginfo /Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/eight/Documents/lesson/build/Debug/lesson.app/Contents/Info.plist36"B93336D0-3180-4B65-B7F0-EE57A22C7765-
+
+CProcessPCH /Users/eight/Library/Developer/Xcode/DerivedData/lesson-buhewtlvyawzoaczszxohzykjkpj/Index/PrecompiledHeaders/lesson-Prefix-eifyytqopndbftalnllzlkppjlmk_ast/lesson-Prefix.pch.pth lesson/lesson-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/lesson-Prefix-gfjkecdwwwoxdqakyfsfeidiamnl/lesson-Prefix.pch.pth lesson/lesson-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403863457.718768
+e403863459.243915
+r1
+xProcessPCH
+x/var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/lesson-Prefix-gfjkecdwwwoxdqakyfsfeidiamnl/lesson-Prefix.pch.pth
+xlesson/lesson-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile lesson/lesson-Prefix.pchd927b8a17712b841^a0703ea37712b841^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/eight/Documents/lesson/lesson/lesson-Prefix.pch0000000000000000^2920"ProcessPCH /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/lesson-Prefix-gfjkecdwwwoxdqakyfsfeidiamnl/lesson-Prefix.pch.pth lesson/lesson-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eight/Documents/lesson    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-generated-files.hmap -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-own-target-headers.hmap -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-all-target-headers.hmap -iquote /Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/lesson-project-headers.hmap -I/Users/eight/Documents/lesson/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/DerivedSources/x86_64 -I/Users/eight/Documents/lesson/build/lesson.build/Debug/lesson.build/DerivedSources -F/Users/eight/Documents/lesson/build/Debug --serialize-diagnostics /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/lesson-Prefix-gfjkecdwwwoxdqakyfsfeidiamnl/lesson-Prefix.pch.dia -c /Users/eight/Documents/lesson/lesson/lesson-Prefix.pch -o /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/lesson-Prefix-gfjkecdwwwoxdqakyfsfeidiamnl/lesson-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/lesson-Prefix-gfjkecdwwwoxdqakyfsfeidiamnl/lesson-Prefix.pch.d36"624DE81F-C2A4-4332-B9BB-9E7E9437F458-
+
+CTouch /Users/eight/Documents/lesson/build/Debug/lesson.app
+r0
+
