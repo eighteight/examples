@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/eight/Documents/examples/pcl_fast_triangulation_unordered_point_clouds/greedy_projection.cpp
+/Users/vgusev/Documents/examples/pcl_fast_triangulation_unordered_point_clouds/greedy_projection.cpp
 pcl/point_types.h
 -
 pcl/io/pcd_io.h
@@ -21905,6 +21905,8 @@ flann/algorithms/kdtree_index.h
 /usr/local/include/flann/algorithms/flann/algorithms/kdtree_index.h
 flann/algorithms/kdtree_single_index.h
 /usr/local/include/flann/algorithms/flann/algorithms/kdtree_single_index.h
+flann/algorithms/kdtree_cuda_3d_index.h
+/usr/local/include/flann/algorithms/flann/algorithms/kdtree_cuda_3d_index.h
 flann/algorithms/kmeans_index.h
 /usr/local/include/flann/algorithms/flann/algorithms/kmeans_index.h
 flann/algorithms/composite_index.h
@@ -21917,8 +21919,6 @@ flann/algorithms/lsh_index.h
 /usr/local/include/flann/algorithms/flann/algorithms/lsh_index.h
 flann/algorithms/autotuned_index.h
 /usr/local/include/flann/algorithms/flann/algorithms/autotuned_index.h
-flann/algorithms/kdtree_cuda_3d_index.h
-/usr/local/include/flann/algorithms/flann/algorithms/kdtree_cuda_3d_index.h
 
 /usr/local/include/flann/algorithms/autotuned_index.h
 flann/general.h
@@ -21943,10 +21943,6 @@ flann/algorithms/linear_index.h
 /usr/local/include/flann/algorithms/flann/algorithms/linear_index.h
 flann/util/logger.h
 /usr/local/include/flann/algorithms/flann/util/logger.h
-
-/usr/local/include/flann/algorithms/center_chooser.h
-flann/util/matrix.h
--
 
 /usr/local/include/flann/algorithms/composite_index.h
 flann/general.h
@@ -22001,8 +21997,6 @@ flann/util/random.h
 /usr/local/include/flann/algorithms/flann/util/random.h
 flann/util/saving.h
 /usr/local/include/flann/algorithms/flann/util/saving.h
-flann/util/serialization.h
-/usr/local/include/flann/algorithms/flann/util/serialization.h
 
 /usr/local/include/flann/algorithms/kdtree_cuda_3d_index.h
 algorithm
@@ -22040,8 +22034,6 @@ map
 cassert
 -
 cstring
--
-stdarg.h
 -
 flann/general.h
 /usr/local/include/flann/algorithms/flann/general.h
@@ -22107,8 +22099,6 @@ flann/algorithms/nn_index.h
 /usr/local/include/flann/algorithms/flann/algorithms/nn_index.h
 flann/algorithms/dist.h
 /usr/local/include/flann/algorithms/flann/algorithms/dist.h
-flann/algorithms/center_chooser.h
--
 flann/util/matrix.h
 /usr/local/include/flann/algorithms/flann/util/matrix.h
 flann/util/result_set.h
@@ -22161,20 +22151,26 @@ flann/util/saving.h
 /usr/local/include/flann/algorithms/flann/util/saving.h
 
 /usr/local/include/flann/algorithms/nn_index.h
-vector
+string
+-
+tbb/parallel_for.h
+-
+tbb/blocked_range.h
+-
+tbb/atomic.h
+-
+tbb/task_scheduler_init.h
 -
 flann/general.h
 /usr/local/include/flann/algorithms/flann/general.h
 flann/util/matrix.h
 /usr/local/include/flann/algorithms/flann/util/matrix.h
-flann/util/params.h
-/usr/local/include/flann/algorithms/flann/util/params.h
 flann/util/result_set.h
 /usr/local/include/flann/algorithms/flann/util/result_set.h
-flann/util/dynamic_bitset.h
-/usr/local/include/flann/algorithms/flann/util/dynamic_bitset.h
-flann/util/saving.h
-/usr/local/include/flann/algorithms/flann/util/saving.h
+flann/util/params.h
+/usr/local/include/flann/algorithms/flann/util/params.h
+flann/tbb/bodies.hpp
+/usr/local/include/flann/algorithms/flann/tbb/bodies.hpp
 
 /usr/local/include/flann/config.h
 
@@ -22209,8 +22205,6 @@ stdexcept
 -
 cassert
 -
-limits.h
--
 
 /usr/local/include/flann/nn/ground_truth.h
 flann/algorithms/dist.h
@@ -22236,6 +22230,18 @@ flann/util/logger.h
 flann/util/timer.h
 /usr/local/include/flann/nn/flann/util/timer.h
 
+/usr/local/include/flann/tbb/bodies.hpp
+tbb/blocked_range.h
+-
+tbb/atomic.h
+-
+flann/util/matrix.h
+/usr/local/include/flann/tbb/flann/util/matrix.h
+flann/util/params.h
+/usr/local/include/flann/tbb/flann/util/params.h
+flann/util/result_set.h
+/usr/local/include/flann/tbb/flann/util/result_set.h
+
 /usr/local/include/flann/util/allocator.h
 stdlib.h
 -
@@ -22255,6 +22261,8 @@ boost/dynamic_bitset.hpp
 -
 limits.h
 -
+flann/algorithms/dist.h
+/usr/local/include/flann/util/flann/algorithms/dist.h
 
 /usr/local/include/flann/util/heap.h
 algorithm
@@ -22295,8 +22303,6 @@ flann/util/matrix.h
 /usr/local/include/flann/util/matrix.h
 flann/general.h
 /usr/local/include/flann/util/flann/general.h
-flann/util/serialization.h
-/usr/local/include/flann/util/flann/util/serialization.h
 stdio.h
 -
 
@@ -22314,8 +22320,6 @@ map
 algorithm
 -
 cstdlib
--
-cstddef
 -
 vector
 -
@@ -22351,16 +22355,8 @@ stdio.h
 -
 flann/general.h
 /usr/local/include/flann/util/flann/general.h
-flann/util/serialization.h
-/usr/local/include/flann/util/flann/util/serialization.h
-
-/usr/local/include/flann/util/serialization.h
-vector
--
-map
--
-stdio.h
--
+flann/algorithms/nn_index.h
+/usr/local/include/flann/util/flann/algorithms/nn_index.h
 
 /usr/local/include/flann/util/timer.h
 time.h
