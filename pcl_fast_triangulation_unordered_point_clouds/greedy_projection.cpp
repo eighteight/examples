@@ -1,17 +1,25 @@
 #include <pcl/point_types.h>
-#include <pcl/io/pcd_io.h>
+
 #include <pcl/kdtree/kdtree_flann.h>
 #include <pcl/features/normal_3d.h>
 #include <pcl/surface/gp3.h>
-
+#include <pcl/io/vtk_lib_io.h>
+#include <pcl/io/obj_io.h>
+#include <pcl/ros/conversions.h>
 int
 main (int argc, char** argv)
 {
     // Load input file into a PointCloud<T> with an appropriate type
     pcl::PointCloud<pcl::PointXYZ>::Ptr cloud (new pcl::PointCloud<pcl::PointXYZ>);
     pcl::PCLPointCloud2 cloud_blob;
-    pcl::io::loadPCDFile ("bun0.pcd", cloud_blob);
-    pcl::fromPCLPointCloud2 (cloud_blob, *cloud);
+    
+    pcl::PolygonMesh mesh;
+    pcl::io::loadPolygonFile("cube.obj",mesh);
+    
+    pcl::fromPCLPointCloud2(mesh.cloud, *cloud);
+    
+//    pcl::io::loadPCDFile ("bun0.pcd", cloud_blob);
+//    pcl::fromPCLPointCloud2 (cloud_blob, *cloud);
     //* the data should be available in cloud
     
     // Normal estimation*
@@ -57,6 +65,37 @@ main (int argc, char** argv)
     // Additional vertex information
     std::vector<int> parts = gp3.getPartIDs();
     std::vector<int> states = gp3.getPointStates();
+    
+    //pcl::PolygonMesh polygon_mesh;
+    //pcl::fromPCLPointCloud2(*cloud_, triangles.cloud);
+    //triangles.polygons = polygons_;
+    
+    ////////
+    pcl::PointCloud<pcl::PointXYZ> cloud1;
+    //cloud1 = triangles.cloud;
+    // Fill in the cloud data
+    cloud1.width    = 1;
+    cloud1.height   = 1;
+    cloud1.is_dense = false;
+    cloud1.points.resize(cloud1.width * cloud1.height);
+    
+    for (size_t i = 0; i < cloud1.points.size (); ++i)
+    {
+        cloud1.points[i].x = 1024 * rand () / (RAND_MAX + 1.0);
+        cloud1.points[i].y = 1024 * rand () / (RAND_MAX + 1.0);
+        cloud1.points[i].z = 1024 * rand () / (RAND_MAX + 1.0);
+    }
+    
+    pcl::io::savePCDFile("out.pcd", cloud1, false);    
+    ///////
+    
+    
+    
+    //pcl::PCLPointCloud2<pcl::PointXYZ> &cloud_;
+    //pcl::toROSMsg(triangles.cloud, cloud_);
+    
+    //pcl::io::savePCDFile("out.pcd", *cloud_, true);
+    pcl::io::saveOBJFile("out.obj", triangles, true);
     
     // Finish
     return (0);
