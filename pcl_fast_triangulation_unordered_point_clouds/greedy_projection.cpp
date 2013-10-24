@@ -6,6 +6,8 @@
 #include <pcl/io/vtk_lib_io.h>
 #include <pcl/io/obj_io.h>
 #include <pcl/ros/conversions.h>
+
+using namespace pcl;
 int
 main (int argc, char** argv)
 {
@@ -61,6 +63,17 @@ main (int argc, char** argv)
     gp3.setInputCloud (cloud_with_normals);
     gp3.setSearchMethod (tree2);
     gp3.reconstruct (triangles);
+    
+    
+    PointCloud<PointXYZ> out;
+    fromPCLPointCloud2(triangles.cloud, out);
+    int tri_i = 0;
+    int vertex_i = 0;
+    std::cout<<triangles.polygons.size()<<" "<<std::endl;
+    
+    std::cout<<out.points[ triangles.polygons[tri_i].vertices[vertex_i] ]<<std::endl;
+    
+    return (0);    
     
     // Additional vertex information
     std::vector<int> parts = gp3.getPartIDs();
