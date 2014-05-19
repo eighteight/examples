@@ -38,22 +38,22 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Applications/CMake 2.8-10.app/Contents/bin/cmake"
+CMAKE_COMMAND = /usr/local/Cellar/cmake/2.8.12.1/bin/cmake
 
 # The command to remove a file.
-RM = "/Applications/CMake 2.8-10.app/Contents/bin/cmake" -E remove -f
+RM = /usr/local/Cellar/cmake/2.8.12.1/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The program to use to edit the cache.
-CMAKE_EDIT_COMMAND = "/Applications/CMake 2.8-10.app/Contents/bin/ccmake"
+CMAKE_EDIT_COMMAND = /usr/local/Cellar/cmake/2.8.12.1/bin/ccmake
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/eight/Downloads/MarchingCubes
+CMAKE_SOURCE_DIR = /Users/eight/Documents/examples/MarchingCubes
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/eight/Downloads/MarchingCubes/build
+CMAKE_BINARY_DIR = /Users/eight/Documents/examples/MarchingCubes/build
 
 #=============================================================================
 # Target rules for target CMakeFiles/MarchingCubes.dir
@@ -62,7 +62,7 @@ CMAKE_BINARY_DIR = /Users/eight/Downloads/MarchingCubes/build
 CMakeFiles/MarchingCubes.dir/all:
 	$(MAKE) -f CMakeFiles/MarchingCubes.dir/build.make CMakeFiles/MarchingCubes.dir/depend
 	$(MAKE) -f CMakeFiles/MarchingCubes.dir/build.make CMakeFiles/MarchingCubes.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /Users/eight/Downloads/MarchingCubes/build/CMakeFiles  1
+	$(CMAKE_COMMAND) -E cmake_progress_report /Users/eight/Documents/examples/MarchingCubes/build/CMakeFiles  1
 	@echo "Built target MarchingCubes"
 .PHONY : CMakeFiles/MarchingCubes.dir/all
 
@@ -72,9 +72,9 @@ all: CMakeFiles/MarchingCubes.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/MarchingCubes.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/eight/Downloads/MarchingCubes/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/eight/Documents/examples/MarchingCubes/build/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/MarchingCubes.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/eight/Downloads/MarchingCubes/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/eight/Documents/examples/MarchingCubes/build/CMakeFiles 0
 .PHONY : CMakeFiles/MarchingCubes.dir/rule
 
 # Convenience name for target.

@@ -26,22 +26,22 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Applications/CMake 2.8-10.app/Contents/bin/cmake"
+CMAKE_COMMAND = /usr/local/Cellar/cmake/2.8.12.1/bin/cmake
 
 # The command to remove a file.
-RM = "/Applications/CMake 2.8-10.app/Contents/bin/cmake" -E remove -f
+RM = /usr/local/Cellar/cmake/2.8.12.1/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The program to use to edit the cache.
-CMAKE_EDIT_COMMAND = "/Applications/CMake 2.8-10.app/Contents/bin/ccmake"
+CMAKE_EDIT_COMMAND = /usr/local/Cellar/cmake/2.8.12.1/bin/ccmake
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/eight/Downloads/MarchingCubes
+CMAKE_SOURCE_DIR = /Users/eight/Documents/examples/MarchingCubes
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/eight/Downloads/MarchingCubes/build
+CMAKE_BINARY_DIR = /Users/eight/Documents/examples/MarchingCubes/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/MarchingCubes.dir/depend.make
@@ -54,17 +54,17 @@ include CMakeFiles/MarchingCubes.dir/flags.make
 
 CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.o: CMakeFiles/MarchingCubes.dir/flags.make
 CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.o: ../MarchingCubes.cxx
-	$(CMAKE_COMMAND) -E cmake_progress_report /Users/eight/Downloads/MarchingCubes/build/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /Users/eight/Documents/examples/MarchingCubes/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.o -c /Users/eight/Downloads/MarchingCubes/MarchingCubes.cxx
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.o -c /Users/eight/Documents/examples/MarchingCubes/MarchingCubes.cxx
 
 CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/eight/Downloads/MarchingCubes/MarchingCubes.cxx > CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/eight/Documents/examples/MarchingCubes/MarchingCubes.cxx > CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.i
 
 CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/eight/Downloads/MarchingCubes/MarchingCubes.cxx -o CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/eight/Documents/examples/MarchingCubes/MarchingCubes.cxx -o CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.s
 
 CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.o.requires:
 .PHONY : CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.o.requires
@@ -84,35 +84,32 @@ MarchingCubes_EXTERNAL_OBJECTS =
 
 MarchingCubes.app/Contents/MacOS/MarchingCubes: CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.o
 MarchingCubes.app/Contents/MacOS/MarchingCubes: CMakeFiles/MarchingCubes.dir/build.make
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkCommon.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkFiltering.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkImaging.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkGraphics.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkGenericFiltering.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkIO.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkRendering.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkVolumeRendering.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkHybrid.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkWidgets.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkInfovis.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkGeovis.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkViews.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkCharts.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkViews.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkInfovis.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkWidgets.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkVolumeRendering.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkHybrid.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkRendering.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkImaging.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkGraphics.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkIO.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkFiltering.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtkCommon.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/vtk-5.10/libvtksys.5.10.1.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/libQtGui.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/libQtSql.dylib
-MarchingCubes.app/Contents/MacOS/MarchingCubes: /opt/local/lib/libQtCore.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkCommon.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkFiltering.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkImaging.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkGraphics.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkGenericFiltering.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkIO.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkRendering.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkVolumeRendering.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkHybrid.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkWidgets.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkInfovis.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkGeovis.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkViews.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkCharts.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkViews.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkInfovis.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkWidgets.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkVolumeRendering.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkHybrid.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkRendering.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkImaging.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkGraphics.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkIO.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkFiltering.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtkCommon.5.10.1.dylib
+MarchingCubes.app/Contents/MacOS/MarchingCubes: /usr/local/lib/vtk-5.10/libvtksys.5.10.1.dylib
 MarchingCubes.app/Contents/MacOS/MarchingCubes: CMakeFiles/MarchingCubes.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable MarchingCubes.app/Contents/MacOS/MarchingCubes"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MarchingCubes.dir/link.txt --verbose=$(VERBOSE)
@@ -129,6 +126,6 @@ CMakeFiles/MarchingCubes.dir/clean:
 .PHONY : CMakeFiles/MarchingCubes.dir/clean
 
 CMakeFiles/MarchingCubes.dir/depend:
-	cd /Users/eight/Downloads/MarchingCubes/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/eight/Downloads/MarchingCubes /Users/eight/Downloads/MarchingCubes /Users/eight/Downloads/MarchingCubes/build /Users/eight/Downloads/MarchingCubes/build /Users/eight/Downloads/MarchingCubes/build/CMakeFiles/MarchingCubes.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/eight/Documents/examples/MarchingCubes/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/eight/Documents/examples/MarchingCubes /Users/eight/Documents/examples/MarchingCubes /Users/eight/Documents/examples/MarchingCubes/build /Users/eight/Documents/examples/MarchingCubes/build /Users/eight/Documents/examples/MarchingCubes/build/CMakeFiles/MarchingCubes.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/MarchingCubes.dir/depend
 

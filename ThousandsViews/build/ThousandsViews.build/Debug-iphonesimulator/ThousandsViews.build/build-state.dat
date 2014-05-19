@@ -1,0 +1,725 @@
+TThousandsViews
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-fluorxhwqbsrhwhicrltmlurotxv/ThousandsViews-Prefix.pch.pch ThousandsViews/ThousandsViews-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ViewController.o /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/AppDelegate.o /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/main.o /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews normal i386
+cCompileStoryboard /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/en.lproj/InfoPlist.strings ThousandsViews/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Images.xcassets
+cProcessInfoPlistFile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/Info.plist /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist
+cGenerateDSYMFile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app.dSYM /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews
+cTouch /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534724200000000000000198
+t1397171232
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531E7D8B00000000000003B4
+t1394507147
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E7D90000000000000019E
+t1394507152
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531E7D91000000000058E0E0
+t1394507153
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531E7D9100000000005B82F0
+t1394507153
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534724010000000000446820
+t1397171201
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531E7D9100000000003599D0
+t1394507153
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531E7D9100000000002FC3B0
+t1394507153
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531E7D91000000000004B000
+t1394507153
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E7D92000000000088D8C0
+t1394507154
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531E7D930000000000037680
+t1394507155
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531E7D93000000000048F720
+t1394507155
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531E7D93000000000013FD70
+t1394507155
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E7D960000000001F1DE10
+t1394507158
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531E7D9D00000000002BC360
+t1394507165
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531E7DA10000000000002338
+t1394507169
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531E7DA1000000000008D370
+t1394507169
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531E7DA10000000000392E20
+t1394507169
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005376B0D300000000000141F0
+t1400287443
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531E7DA10000000000014A80
+t1394507169
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531E7DA10000000000033BA0
+t1394507169
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531E7DA1000000000001CFB0
+t1394507169
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531E7DA2000000000001B2B0
+t1394507170
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531E7DA200000000000C9570
+t1394507170
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531E7DA20000000000063280
+t1394507170
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531E7DA20000000000008880
+t1394507170
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531E7DA20000000000015080
+t1394507170
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531E7DA200000000000230F0
+t1394507170
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531E7DA2000000000000E380
+t1394507170
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531E7DA20000000000089380
+t1394507170
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531E7DA20000000000017320
+t1394507170
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531E7DA20000000000039CD0
+t1394507170
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531E7DA2000000000000B0B0
+t1394507170
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531E7DA20000000000167E80
+t1394507170
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531E7DA200000000000106A0
+t1394507170
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531E7DA2000000000001CE40
+t1394507170
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531E7DA200000000000740C0
+t1394507170
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531E7DA2000000000006CA60
+t1394507170
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531E7DA2000000000001BAD0
+t1394507170
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531E7DA20000000000084A20
+t1394507170
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531E7DB10000000000000ADC
+t1394507185
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053472401000000000000514C
+t1397171201
+s20812
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.h
+c00000000537978E10000000000000113
+t1400469729
+s275
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m
+c00000000537978E100000000000007D5
+t1400469729
+s2005
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPad.storyboard
+c00000000537978E10000000000000713
+t1400469729
+s1811
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPhone.storyboard
+c00000000537978E1000000000000071B
+t1400469729
+s1819
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Images.xcassets
+c00000000537978E10000000000000088
+t1400469729
+s136
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist
+c00000000537978E10000000000000638
+t1400469729
+s1592
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Prefix.pch
+c00000000537978E10000000000000158
+t1400469729
+s344
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.h
+c00000000537979AD000000000000018C
+t1400469933
+s396
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m
+c00000000537979BB00000000000013D8
+t1400469947
+s5080
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/en.lproj/InfoPlist.strings
+c00000000537978E1000000000000002D
+t1400469729
+s45
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m
+c00000000537978E1000000000000014F
+t1400469729
+s335
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app
+t1400469948
+s306
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app.dSYM
+t1400469948
+s102
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/Base.lproj/Main_iPad.storyboardc
+t1400469878
+s170
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/Base.lproj/Main_iPhone.storyboardc
+t1400469879
+s170
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/Info.plist
+t1400469879
+s1306
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/PkgInfo
+t1400469879
+s8
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews
+t1400469948
+s27764
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/en.lproj/InfoPlist.strings
+t1400469878
+s42
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/AppDelegate.o
+t1400469878
+s62416
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ThousandsViews.LinkFileList
+c000000005379797400000000000001C1
+t1400469876
+s449
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ViewController.o
+t1400469948
+s61816
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/main.o
+t1400469878
+s3572
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/assetcatalog_dependencies.txt
+t1400469878
+s394
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/assetcatalog_generated_info.plist
+t1400469878
+s525
+
+N/usr/lib/libSystem.B.dylib
+c000000005376B0C2000000000000E6D0
+t1400287426
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526860CC0000000000012A00
+t1382572236
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000526860B3000000000002E320
+t1382572211
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526860BF0000000000021860
+t1382572223
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000526860CB000000000001B620
+t1382572235
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c00000000526860CB00000000000BD920
+t1382572235
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005376B0D300000000000141F0
+t1400287443
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000526860CC000000000000A120
+t1382572236
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053150EBC000000000001D550
+t1393888956
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526860CB0000000000014EE0
+t1382572235
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526860CD0000000000010380
+t1382572237
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c00000000526860CD000000000000C4C0
+t1382572237
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c00000000526860CC00000000000357A0
+t1382572236
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000526860CC000000000000C070
+t1382572236
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005376B0D00000000000010630
+t1400287440
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053150EBC000000000001DF10
+t1393888956
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526860BF0000000000075B00
+t1382572223
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005376B0C2000000000007CD60
+t1400287426
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000526860BF00000000000766C0
+t1382572223
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526860BF0000000000021FA0
+t1382572223
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053150EBC000000000002D920
+t1393888956
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c00000000526860CC000000000001E570
+t1382572236
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005376B0C9000000000000CC70
+t1400287433
+s52336
+
+N/usr/lib/system/libunc.dylib
+c00000000526860C7000000000000C3F0
+t1382572231
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c00000000526860CC00000000000199F0
+t1382572236
+s104944
+
+N/var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-fluorxhwqbsrhwhicrltmlurotxv/ThousandsViews-Prefix.pch.pch
+t1400469878
+s115964
+
+CBuild AST from /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m
+r0
+
+CBuild AST from /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m
+r0
+
+CBuild AST from /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2b85e843b129b941^82e1e843b129b941^---0#1#1#--18"Check dependencies36"1E1AE6C0-B3D8-447F-9533-C2D5197EA1F1-
+
+CCompileAssetCatalog /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Images.xcassets
+s422162678.517877
+e422162678.931170
+r1
+xCompileAssetCatalog
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/LaunchImage-700-568h@2x.png
+o/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/Assets.car
+o/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"CompileAssetCatalog build/Debug-iphonesimulator/ThousandsViews.app ThousandsViews/Images.xcassets97"CompileAssetCatalog build/Debug-iphonesimulator/ThousandsViews.app ThousandsViews/Images.xcassets2ca084f6b029b941^8d61eef6b029b941^-422"/* com.apple.actool.compilation-results *//Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/LaunchImage-700-568h@2x.png/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/Assets.car/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@85"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Images.xcassets/0000000000000000^1209"CompileAssetCatalog build/Debug-iphonesimulator/ThousandsViews.app ThousandsViews/Images.xcassets    cd /Users/eight/Documents/examples/ThousandsViews    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --target-device ipad --compress-pngs --compile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Images.xcassets36"B8C3DBEE-734D-42D6-B408-33FC097BC50A-
+bD2B8F975-3B43-432F-9FBA-09053AF45724
+
+CCompileC build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/AppDelegate.o /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422162678.267577
+e422162678.352902
+r1
+xCompileC
+xbuild/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/AppDelegate.o
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m209"CompileC build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/AppDelegate.o ThousandsViews/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler299544f6b029b941^92585af6b029b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m0000000000000000^3833"CompileC build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/AppDelegate.o ThousandsViews/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eight/Documents/examples/ThousandsViews    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eight/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-generated-files.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-own-target-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-all-target-headers.hmap -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-project-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/DerivedSources/i386 -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/DerivedSources -F/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator -include /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-fluorxhwqbsrhwhicrltmlurotxv/ThousandsViews-Prefix.pch -MMD -MT dependencies -MF /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/AppDelegate.dia -c /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m -o /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/AppDelegate.o36"7EA10AAA-6A0F-42D2-A762-E76982FD5FDA-
+bD2B8F975-3B43-432F-9FBA-09053AF45724
+
+CCompileC build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ViewController.o /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422162748.021733
+e422162748.471907
+r1
+xCompileC
+xbuild/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ViewController.o
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.h
+o/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m:35:35: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    _detailLabel1.textAlignment = UITextAlignmentCenter;
+o                                  ^
+oIn module 'UIKit' imported from /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m:38:35: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    _detailLabel2.textAlignment = UITextAlignmentCenter;
+o                                  ^
+oIn module 'UIKit' imported from /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m:41:35: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    _detailLabel3.textAlignment = UITextAlignmentCenter;
+o                                  ^
+oIn module 'UIKit' imported from /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m215"CompileC build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ViewController.o ThousandsViews/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler93a6053cb129b941^70ce783cb129b941^-2014"/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m:35:35: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    _detailLabel1.textAlignment = UITextAlignmentCenter;                                  ^In module 'UIKit' imported from /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m:38:35: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    _detailLabel2.textAlignment = UITextAlignmentCenter;                                  ^In module 'UIKit' imported from /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m:41:35: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    _detailLabel3.textAlignment = UITextAlignmentCenter;                                  ^In module 'UIKit' imported from /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-422162748#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-422162748#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2493#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m0000000000000000^34#34#34#34#1100#0#12"Deprecations--2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-422162748#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-422162748#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2493#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m0000000000000000^37#34#37#34#1308#0#12"Deprecations--2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-422162748#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-422162748#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2493#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m0000000000000000^40#34#40#34#1516#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@85"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m0000000000000000^3851"CompileC build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ViewController.o ThousandsViews/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eight/Documents/examples/ThousandsViews    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eight/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-generated-files.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-own-target-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-all-target-headers.hmap -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-project-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/DerivedSources/i386 -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/DerivedSources -F/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator -include /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-fluorxhwqbsrhwhicrltmlurotxv/ThousandsViews-Prefix.pch -MMD -MT dependencies -MF /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ViewController.dia -c /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m -o /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ViewController.o36"8C7A5E6F-E592-459E-B1E2-436CACE852DD-
+b3AF57FE5-62CC-472C-A193-CA44F758203E
+
+CCompileC build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/main.o /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422162678.267839
+e422162678.344947
+r1
+xCompileC
+xbuild/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/main.o
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m195"CompileC build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/main.o ThousandsViews/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd2a844f6b029b941^1a4f58f6b029b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m0000000000000000^3791"CompileC build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/main.o ThousandsViews/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eight/Documents/examples/ThousandsViews    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eight/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-generated-files.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-own-target-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-all-target-headers.hmap -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-project-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/DerivedSources/i386 -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/DerivedSources -F/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator -include /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-fluorxhwqbsrhwhicrltmlurotxv/ThousandsViews-Prefix.pch -MMD -MT dependencies -MF /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/main.dia -c /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m -o /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/main.o36"B3F54402-3BFF-4015-A037-9F6D71F4B9D8-
+bD2B8F975-3B43-432F-9FBA-09053AF45724
+
+CCompileStoryboard /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPad.storyboard
+s422162678.517338
+e422162678.563874
+r1
+xCompileStoryboard
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard ThousandsViews/Base.lproj/Main_iPad.storyboard64"CompileStoryboard ThousandsViews/Base.lproj/Main_iPad.storyboarde17e84f6b029b941^f75a90f6b029b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPad.storyboard0000000000000000^890"CompileStoryboard ThousandsViews/Base.lproj/Main_iPad.storyboard    cd /Users/eight/Documents/examples/ThousandsViews    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/Base.lproj/Main_iPad.storyboardc /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPad.storyboard36"91575121-F4AB-4849-A471-1A45A73B2177-
+bD2B8F975-3B43-432F-9FBA-09053AF45724
+
+CCompileStoryboard /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPhone.storyboard
+s422162678.517441
+e422162679.016731
+r1
+xCompileStoryboard
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"CompileStoryboard ThousandsViews/Base.lproj/Main_iPhone.storyboard66"CompileStoryboard ThousandsViews/Base.lproj/Main_iPhone.storyboard908584f6b029b941^774904f7b029b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPhone.storyboard0000000000000000^896"CompileStoryboard ThousandsViews/Base.lproj/Main_iPhone.storyboard    cd /Users/eight/Documents/examples/ThousandsViews    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/Base.lproj/Main_iPhone.storyboardc /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPhone.storyboard36"FB7D7AD0-0FF4-4EEF-9749-C7848F392FBE-
+bD2B8F975-3B43-432F-9FBA-09053AF45724
+
+CCopyStringsFile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/en.lproj/InfoPlist.strings ThousandsViews/en.lproj/InfoPlist.strings
+s422162678.517577
+e422162678.518786
+r1
+xCopyStringsFile
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/en.lproj/InfoPlist.strings
+xThousandsViews/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy ThousandsViews/en.lproj/InfoPlist.strings131"CopyStringsFile build/Debug-iphonesimulator/ThousandsViews.app/en.lproj/InfoPlist.strings ThousandsViews/en.lproj/InfoPlist.strings259284f6b029b941^c0cf84f6b029b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/en.lproj/InfoPlist.strings0000000000000000^619"CopyStringsFile build/Debug-iphonesimulator/ThousandsViews.app/en.lproj/InfoPlist.strings ThousandsViews/en.lproj/InfoPlist.strings    cd /Users/eight/Documents/examples/ThousandsViews    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/en.lproj -- ThousandsViews/en.lproj/InfoPlist.strings36"B805D29B-4CAF-4FE1-8722-E1AA42660559-
+bD2B8F975-3B43-432F-9FBA-09053AF45724
+
+CGenerateDSYMFile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app.dSYM /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews
+s422162748.575112
+e422162748.618025
+r1
+xGenerateDSYMFile
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app.dSYM
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Generate /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app.dSYM130"GenerateDSYMFile build/Debug-iphonesimulator/ThousandsViews.app.dSYM build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews0f47933cb129b941^00389e3cb129b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app.dSYM/0000000000000000^691"GenerateDSYMFile build/Debug-iphonesimulator/ThousandsViews.app.dSYM build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews    cd /Users/eight/Documents/examples/ThousandsViews    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews -o /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app.dSYM36"03B7BD86-D58F-440F-8C7C-D7367FB3BA24-
+b3AF57FE5-62CC-472C-A193-CA44F758203E
+
+CLd /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews normal i386
+s422162748.474107
+e422162748.573247
+r1
+xLd
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews
+xnormal
+xi386
+d/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ThousandsViews.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ViewController.o
+d/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/AppDelegate.o
+d/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Link /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews76"Ld build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews normal i386d26d793cb129b941^f9c0923cb129b941^---0#0#1#--1443"Ld build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews normal i386    cd /Users/eight/Documents/examples/ThousandsViews    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator -F/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator -filelist /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ThousandsViews.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/Objects-normal/i386/ThousandsViews_dependency_info.dat -o /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/ThousandsViews36"6CFE40BE-6F3D-4531-82F2-99F8A9CFD346-
+b3AF57FE5-62CC-472C-A193-CA44F758203E
+
+CProcessInfoPlistFile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/Info.plist /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist
+s422162679.017412
+e422162679.019026
+r1
+xProcessInfoPlistFile
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/Info.plist
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Process /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist119"ProcessInfoPlistFile build/Debug-iphonesimulator/ThousandsViews.app/Info.plist ThousandsViews/ThousandsViews-Info.plist8c8204f7b029b941^6adf04f7b029b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist0000000000000000^944"ProcessInfoPlistFile build/Debug-iphonesimulator/ThousandsViews.app/Info.plist ThousandsViews/ThousandsViews-Info.plist    cd /Users/eight/Documents/examples/ThousandsViews    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist -genpkginfo /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/assetcatalog_generated_info.plist -o /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app/Info.plist36"7E4CF5D0-ADDD-4D71-B3F3-6BF3A1083A53-
+bD2B8F975-3B43-432F-9FBA-09053AF45724
+
+CProcessPCH /Users/eight/Library/Developer/Xcode/DerivedData/ThousandsViews-fgxtyuqojfsmlxenevfzgurnjxvh/Index/PrecompiledHeaders/ThousandsViews-Prefix-akcanyzwbbedgwcbpqmotvqoovur_ast/ThousandsViews-Prefix.pch.pch ThousandsViews/ThousandsViews-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-fluorxhwqbsrhwhicrltmlurotxv/ThousandsViews-Prefix.pch.pch ThousandsViews/ThousandsViews-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422162676.786051
+e422162678.266721
+r1
+xProcessPCH
+x/var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-fluorxhwqbsrhwhicrltmlurotxv/ThousandsViews-Prefix.pch.pch
+xThousandsViews/ThousandsViews-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile ThousandsViews/ThousandsViews-Prefix.pch318"ProcessPCH /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-fluorxhwqbsrhwhicrltmlurotxv/ThousandsViews-Prefix.pch.pch ThousandsViews/ThousandsViews-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler904ec9f4b029b941^5a4844f6b029b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Prefix.pch0000000000000000^3897"ProcessPCH /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-fluorxhwqbsrhwhicrltmlurotxv/ThousandsViews-Prefix.pch.pch ThousandsViews/ThousandsViews-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eight/Documents/examples/ThousandsViews    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eight/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-generated-files.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-own-target-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-all-target-headers.hmap -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/ThousandsViews-project-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/DerivedSources/i386 -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphonesimulator/ThousandsViews.build/DerivedSources -F/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-fluorxhwqbsrhwhicrltmlurotxv/ThousandsViews-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-fluorxhwqbsrhwhicrltmlurotxv/ThousandsViews-Prefix.pch.d -c /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Prefix.pch -o /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-fluorxhwqbsrhwhicrltmlurotxv/ThousandsViews-Prefix.pch.pch36"038CED7B-D3FC-49C3-8125-27A00C096625-
+bD2B8F975-3B43-432F-9FBA-09053AF45724
+
+CTouch /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphonesimulator/ThousandsViews.app
+r0
+

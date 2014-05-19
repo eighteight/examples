@@ -4,7 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/eight/Downloads/MarchingCubes/MarchingCubes.cxx" "/Users/eight/Downloads/MarchingCubes/build/CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.o"
+  "/Users/eight/Documents/examples/MarchingCubes/MarchingCubes.cxx" "/Users/eight/Documents/examples/MarchingCubes/build/CMakeFiles/MarchingCubes.dir/MarchingCubes.cxx.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "Clang")
 
@@ -14,7 +14,7 @@ SET(CMAKE_TARGET_LINKED_INFO_FILES
 
 # The include file search paths:
 SET(CMAKE_C_TARGET_INCLUDE_PATH
-  "/opt/local/include/vtk-5.10"
+  "/usr/local/include/vtk-5.10"
   )
 SET(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
 SET(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

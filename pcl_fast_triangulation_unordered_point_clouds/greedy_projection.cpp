@@ -16,7 +16,7 @@ main (int argc, char** argv)
     pcl::PCLPointCloud2 cloud_blob;
     
     pcl::PolygonMesh mesh;
-    pcl::io::loadPolygonFile("cube.obj",mesh);
+    pcl::io::loadPolygonFile("bun0.obj",mesh);
     
     pcl::fromPCLPointCloud2(mesh.cloud, *cloud);
     

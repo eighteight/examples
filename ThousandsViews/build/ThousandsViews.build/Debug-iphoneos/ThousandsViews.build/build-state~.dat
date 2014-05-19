@@ -1,0 +1,430 @@
+TThousandsViews
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/ThousandsViews.app/ResourceRules.plist
+cProcessPCH /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-guofldmyeecdeueflobfcuhfazsf/ThousandsViews-Prefix.pch.pch ThousandsViews/ThousandsViews-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ViewController.o /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/AppDelegate.o /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/main.o /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ThousandsViews normal armv7
+cCompileStoryboard /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/en.lproj/InfoPlist.strings ThousandsViews/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Images.xcassets
+cProcessInfoPlistFile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/Info.plist /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist
+cGenerateDSYMFile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app.dSYM /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ThousandsViews
+cProcessProductPackaging /Users/eight/Library/MobileDevice/Provisioning\ Profiles/8CC0ED81-568E-40F1-8C10-069A24B60B86.mobileprovision /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/embedded.mobileprovision
+cTouch /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews.xcent
+cCodeSign /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000535078670000000000000132
+t1397782631
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000531E7D7D0000000000000094
+t1394507133
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000531E7D7D0000000000000096
+t1394507133
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531E7D7D000000000000036B
+t1394507133
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E7D7D000000000000019E
+t1394507133
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005347240000000000004D7BC0
+t1397171200
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E7D7F0000000000A90C10
+t1394507135
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E7D830000000002759920
+t1394507139
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531E7DB10000000000000ADC
+t1394507185
+s2780
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m
+c00000000537978E100000000000007D5
+t1400469729
+s2005
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPad.storyboard
+c00000000537978E10000000000000713
+t1400469729
+s1811
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPhone.storyboard
+c00000000537978E1000000000000071B
+t1400469729
+s1819
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Images.xcassets
+c00000000537978E10000000000000088
+t1400469729
+s136
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist
+c00000000537978E10000000000000638
+t1400469729
+s1592
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Prefix.pch
+c00000000537978E10000000000000158
+t1400469729
+s344
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m
+c000000005379790F000000000000017B
+t1400469775
+s379
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/en.lproj/InfoPlist.strings
+c00000000537978E1000000000000002D
+t1400469729
+s45
+
+N/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m
+c00000000537978E1000000000000014F
+t1400469729
+s335
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app
+t1400469778
+s374
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app.dSYM
+t2
+s0
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/Base.lproj/Main_iPad.storyboardc
+t1400469778
+s170
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/Base.lproj/Main_iPhone.storyboardc
+t1400469778
+s170
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/Info.plist
+t1400469778
+s1586
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/PkgInfo
+t1400469778
+s8
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ResourceRules.plist
+t1400469775
+s150
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ThousandsViews
+t1400469777
+s52816
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/embedded.mobileprovision
+t1400469778
+s7656
+
+N/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/en.lproj/InfoPlist.strings
+t1400469777
+s42
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/AppDelegate.o
+t1400469776
+s61776
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ThousandsViews.LinkFileList
+c000000005379790F00000000000001AF
+t1400469775
+s431
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ViewController.o
+t1400469776
+s2352
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/main.o
+t1400469776
+s3820
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews.xcent
+t1400469778
+s436
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/assetcatalog_dependencies.txt
+t1400469778
+s373
+
+N/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/assetcatalog_generated_info.plist
+t1400469778
+s525
+
+N/Users/eight/Library/MobileDevice/Provisioning Profiles/8CC0ED81-568E-40F1-8C10-069A24B60B86.mobileprovision
+c00000000537957560000000000001DE8
+t1400461142
+s7656
+
+N/var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-guofldmyeecdeueflobfcuhfazsf/ThousandsViews-Prefix.pch.pch
+t1400469776
+s87948
+
+CBuild AST from /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m
+r0
+
+CBuild AST from /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m
+r0
+
+CBuild AST from /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf852608fb029b941^5da86c8fb029b941^---0#1#1#--18"Check dependencies36"55C39194-A99F-4F0F-BEFE-04AAEC38A803-
+
+CCodeSign /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app
+s422162578.749754
+e422162579.007778
+r1
+xCodeSign
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"CodeSign build/Debug-iphoneos/ThousandsViews.app48"CodeSign build/Debug-iphoneos/ThousandsViews.appda00c092b029b941^ebfe0193b029b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/0000000000000000^1039"CodeSign build/Debug-iphoneos/ThousandsViews.app    cd /Users/eight/Documents/examples/ThousandsViews    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Vladimir Gusev (5B3DNZYZSG)" and provisioning profile "iOS Team Provisioning Profile: *" (8CC0ED81-568E-40F1-8C10-069A24B60B86)    /usr/bin/codesign --force --sign E7B1BCE684DF1B510A66C4C18D30BAEEF1ACE5B4 --resource-rules=/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ResourceRules.plist --entitlements /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews.xcent /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app36"63BE3308-5B1F-4AA5-B48E-792DD9C811D0-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CCompileAssetCatalog /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Images.xcassets
+s422162577.024271
+e422162578.603821
+r1
+xCompileAssetCatalog
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/LaunchImage-700-568h@2x.png
+o/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/Assets.car
+o/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CompileAssetCatalog build/Debug-iphoneos/ThousandsViews.app ThousandsViews/Images.xcassets90"CompileAssetCatalog build/Debug-iphoneos/ThousandsViews.app ThousandsViews/Images.xcassets6b4a0691b029b941^8a949a92b029b941^-401"/* com.apple.actool.compilation-results *//Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/LaunchImage-700-568h@2x.png/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/Assets.car/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@85"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Images.xcassets/0000000000000000^1122"CompileAssetCatalog build/Debug-iphoneos/ThousandsViews.app ThousandsViews/Images.xcassets    cd /Users/eight/Documents/examples/ThousandsViews    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device iphone --target-device ipad --compress-pngs --compile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Images.xcassets36"04E3814C-E29A-462F-A71E-420CE040CCF8-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CCompileC build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/AppDelegate.o /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422162576.733869
+e422162576.899327
+r1
+xCompileC
+xbuild/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/AppDelegate.o
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m204"CompileC build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/AppDelegate.o ThousandsViews/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4ef2bb90b029b941^793be690b029b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m0000000000000000^3660"CompileC build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/AppDelegate.o ThousandsViews/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eight/Documents/examples/ThousandsViews    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eight/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-generated-files.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-own-target-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-all-target-headers.hmap -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-project-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/DerivedSources/armv7 -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/DerivedSources -F/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos -include /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-guofldmyeecdeueflobfcuhfazsf/ThousandsViews-Prefix.pch -MMD -MT dependencies -MF /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/AppDelegate.dia -c /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.m -o /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/AppDelegate.o36"45A49CD0-16E7-4DB1-B253-744F24E11BBD-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CCompileC build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ViewController.o /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422162576.733343
+e422162576.835733
+r1
+xCompileC
+xbuild/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ViewController.o
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m210"CompileC build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ViewController.o ThousandsViews/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compileredd5bb90b029b941^f5f4d590b029b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m0000000000000000^3678"CompileC build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ViewController.o ThousandsViews/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eight/Documents/examples/ThousandsViews    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eight/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-generated-files.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-own-target-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-all-target-headers.hmap -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-project-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/DerivedSources/armv7 -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/DerivedSources -F/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos -include /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-guofldmyeecdeueflobfcuhfazsf/ThousandsViews-Prefix.pch -MMD -MT dependencies -MF /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ViewController.dia -c /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ViewController.m -o /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ViewController.o36"4C596656-0409-4784-AFE7-0358F139A189-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CCompileC build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/main.o /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422162576.734217
+e422162576.899758
+r1
+xCompileC
+xbuild/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/main.o
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m190"CompileC build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/main.o ThousandsViews/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerbb0fbc90b029b941^6457e690b029b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m0000000000000000^3618"CompileC build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/main.o ThousandsViews/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eight/Documents/examples/ThousandsViews    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eight/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-generated-files.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-own-target-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-all-target-headers.hmap -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-project-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/DerivedSources/armv7 -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/DerivedSources -F/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos -include /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-guofldmyeecdeueflobfcuhfazsf/ThousandsViews-Prefix.pch -MMD -MT dependencies -MF /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/main.dia -c /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/main.m -o /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/main.o36"794FE4D5-FE5A-4732-AC3E-F1531A87135C-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CCompileStoryboard /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPad.storyboard
+s422162577.023402
+e422162578.700573
+r1
+xCompileStoryboard
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard ThousandsViews/Base.lproj/Main_iPad.storyboard64"CompileStoryboard ThousandsViews/Base.lproj/Main_iPad.storyboardc40b0691b029b941^5f5fb392b029b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPad.storyboard0000000000000000^831"CompileStoryboard ThousandsViews/Base.lproj/Main_iPad.storyboard    cd /Users/eight/Documents/examples/ThousandsViews    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/Base.lproj/Main_iPad.storyboardc /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPad.storyboard36"DAF6167A-6911-4E30-AA98-13AEF7268C8F-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CCompileStoryboard /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPhone.storyboard
+s422162577.023589
+e422162578.700523
+r1
+xCompileStoryboard
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"CompileStoryboard ThousandsViews/Base.lproj/Main_iPhone.storyboard66"CompileStoryboard ThousandsViews/Base.lproj/Main_iPhone.storyboard321d0691b029b941^5456b392b029b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPhone.storyboard0000000000000000^837"CompileStoryboard ThousandsViews/Base.lproj/Main_iPhone.storyboard    cd /Users/eight/Documents/examples/ThousandsViews    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/Base.lproj/Main_iPhone.storyboardc /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/Base.lproj/Main_iPhone.storyboard36"2EB50837-F3A3-4B24-A7D7-023BDC892A27-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CCopyStringsFile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/en.lproj/InfoPlist.strings ThousandsViews/en.lproj/InfoPlist.strings
+s422162577.023830
+e422162577.025774
+r1
+xCopyStringsFile
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/en.lproj/InfoPlist.strings
+xThousandsViews/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy ThousandsViews/en.lproj/InfoPlist.strings124"CopyStringsFile build/Debug-iphoneos/ThousandsViews.app/en.lproj/InfoPlist.strings ThousandsViews/en.lproj/InfoPlist.stringsb22e0691b029b941^31990691b029b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/en.lproj/InfoPlist.strings0000000000000000^598"CopyStringsFile build/Debug-iphoneos/ThousandsViews.app/en.lproj/InfoPlist.strings ThousandsViews/en.lproj/InfoPlist.strings    cd /Users/eight/Documents/examples/ThousandsViews    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/en.lproj -- ThousandsViews/en.lproj/InfoPlist.strings36"BDE80B89-8C20-4394-8A0C-017A92D64ED8-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/ThousandsViews.app/ResourceRules.plist
+s422162575.415093
+e422162575.416491
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/ThousandsViews.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug-iphoneos/ThousandsViews.app/ResourceRules.plist192"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/ThousandsViews.app/ResourceRules.plistf3596a8fb029b941^bb486d8fb029b941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ResourceRules.plist0034b452dcffdf42^756"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/ThousandsViews.app/ResourceRules.plist    cd /Users/eight/Documents/examples/ThousandsViews    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app36"05301124-EF99-40F7-9EFF-37D4C801B75A-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CGenerateDSYMFile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app.dSYM /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ThousandsViews
+s422162578.704316
+e422162578.743284
+r1
+xGenerateDSYMFile
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app.dSYM
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ThousandsViews
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Generate /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app.dSYM116"GenerateDSYMFile build/Debug-iphoneos/ThousandsViews.app.dSYM build/Debug-iphoneos/ThousandsViews.app/ThousandsViews925ab492b029b941^5248be92b029b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app.dSYM0034b452dcffdf42^656"GenerateDSYMFile build/Debug-iphoneos/ThousandsViews.app.dSYM build/Debug-iphoneos/ThousandsViews.app/ThousandsViews    cd /Users/eight/Documents/examples/ThousandsViews    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ThousandsViews -o /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app.dSYM36"3F54578A-EA35-42A0-B884-BC236512FAEC-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CLd /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ThousandsViews normal armv7
+s422162576.900410
+e422162577.022605
+r1
+xLd
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ThousandsViews
+xnormal
+xarmv7
+d/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ThousandsViews.LinkFileList
+d/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ViewController.o
+d/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/AppDelegate.o
+d/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Link /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ThousandsViews70"Ld build/Debug-iphoneos/ThousandsViews.app/ThousandsViews normal armv72590e690b029b941^8eca0591b029b941^---0#0#1#--1324"Ld build/Debug-iphoneos/ThousandsViews.app/ThousandsViews normal armv7    cd /Users/eight/Documents/examples/ThousandsViews    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos -F/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos -filelist /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ThousandsViews.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/Objects-normal/armv7/ThousandsViews_dependency_info.dat -o /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ThousandsViews36"29E446A0-7534-45C7-906D-E5E5771781A7-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CProcessInfoPlistFile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/Info.plist /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist
+s422162578.701212
+e422162578.703839
+r1
+xProcessInfoPlistFile
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/Info.plist
+x/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Process /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist112"ProcessInfoPlistFile build/Debug-iphoneos/ThousandsViews.app/Info.plist ThousandsViews/ThousandsViews-Info.plist0090b392b029b941^732fb492b029b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist0000000000000000^1028"ProcessInfoPlistFile build/Debug-iphoneos/ThousandsViews.app/Info.plist ThousandsViews/ThousandsViews-Info.plist    cd /Users/eight/Documents/examples/ThousandsViews    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Info.plist -genpkginfo /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/ResourceRules.plist -additionalcontentfile /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/assetcatalog_generated_info.plist -o /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/Info.plist36"623E9F2D-3C20-467F-B523-783BE87B8EAE-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CProcessPCH /Users/eight/Library/Developer/Xcode/DerivedData/ThousandsViews-fgxtyuqojfsmlxenevfzgurnjxvh/Index/PrecompiledHeaders/ThousandsViews-Prefix-aiyijugcgpxgjpaqjpzcwcvjvgrg_ast/ThousandsViews-Prefix.pch.pch ThousandsViews/ThousandsViews-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-guofldmyeecdeueflobfcuhfazsf/ThousandsViews-Prefix.pch.pch ThousandsViews/ThousandsViews-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422162575.417452
+e422162576.732269
+r1
+xProcessPCH
+x/var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-guofldmyeecdeueflobfcuhfazsf/ThousandsViews-Prefix.pch.pch
+xThousandsViews/ThousandsViews-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile ThousandsViews/ThousandsViews-Prefix.pch319"ProcessPCH /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-guofldmyeecdeueflobfcuhfazsf/ThousandsViews-Prefix.pch.pch ThousandsViews/ThousandsViews-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf0fc6a8fb029b941^5c77bb90b029b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Prefix.pch0000000000000000^3748"ProcessPCH /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-guofldmyeecdeueflobfcuhfazsf/ThousandsViews-Prefix.pch.pch ThousandsViews/ThousandsViews-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/eight/Documents/examples/ThousandsViews    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/eight/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-generated-files.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-own-target-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-all-target-headers.hmap -iquote /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews-project-headers.hmap -I/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/DerivedSources/armv7 -I/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/DerivedSources -F/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos --serialize-diagnostics /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-guofldmyeecdeueflobfcuhfazsf/ThousandsViews-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-guofldmyeecdeueflobfcuhfazsf/ThousandsViews-Prefix.pch.d -c /Users/eight/Documents/examples/ThousandsViews/ThousandsViews/ThousandsViews-Prefix.pch -o /var/folders/9c/8h_mmsx11_38451l65tpnpqr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ThousandsViews-Prefix-guofldmyeecdeueflobfcuhfazsf/ThousandsViews-Prefix.pch.pch36"5C90D64D-4D45-4888-810A-822C86BAD302-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews.xcent
+s422162578.747143
+e422162578.749435
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection228"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews.xcent228"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews.xcent944fbf92b029b941^05dcbf92b029b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews.xcent0034b452dcffdf42^788"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews.xcent    cd /Users/eight/Documents/examples/ThousandsViews    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/eight/Documents/examples/ThousandsViews/build/ThousandsViews.build/Debug-iphoneos/ThousandsViews.build/ThousandsViews.xcent36"ADA5BE95-92EF-4D0D-9A56-ACF3D3F3884C-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CProcessProductPackaging /Users/eight/Library/MobileDevice/Provisioning\ Profiles/8CC0ED81-568E-40F1-8C10-069A24B60B86.mobileprovision /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/embedded.mobileprovision
+s422162578.743694
+e422162578.746488
+r1
+xProcessProductPackaging
+x/Users/eight/Library/MobileDevice/Provisioning Profiles/8CC0ED81-568E-40F1-8C10-069A24B60B86.mobileprovision
+x/Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection198"ProcessProductPackaging /Users/eight/Library/MobileDevice/Provisioning\ Profiles/8CC0ED81-568E-40F1-8C10-069A24B60B86.mobileprovision build/Debug-iphoneos/ThousandsViews.app/embedded.mobileprovision198"ProcessProductPackaging /Users/eight/Library/MobileDevice/Provisioning\ Profiles/8CC0ED81-568E-40F1-8C10-069A24B60B86.mobileprovision build/Debug-iphoneos/ThousandsViews.app/embedded.mobileprovisiond66fbe92b029b941^a01abf92b029b941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/embedded.mobileprovision0034b452dcffdf42^702"ProcessProductPackaging /Users/eight/Library/MobileDevice/Provisioning\ Profiles/8CC0ED81-568E-40F1-8C10-069A24B60B86.mobileprovision build/Debug-iphoneos/ThousandsViews.app/embedded.mobileprovision    cd /Users/eight/Documents/examples/ThousandsViews    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/eight/Library/MobileDevice/Provisioning\ Profiles/8CC0ED81-568E-40F1-8C10-069A24B60B86.mobileprovision -o /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app/embedded.mobileprovision36"7B525F59-AC0C-416D-9AE5-E3A6818F383D-
+b6256642A-3773-43DA-A6B0-9988DED4553B
+
+CTouch /Users/eight/Documents/examples/ThousandsViews/build/Debug-iphoneos/ThousandsViews.app
+r0
+
